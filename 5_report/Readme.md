@@ -98,3 +98,21 @@ Structural Diagram
 It contains a UML diagram of the project. BY seeing this anyone can understand the test cases behind the logic of the diagram. This is means of explaining the project in simple manner.
 ![image](https://user-images.githubusercontent.com/94459654/143376014-498d0398-7b82-49ab-9869-cbad9d396832.png)
 
+#Testing and output analysis
+
+Admin Login and New Election initialisation
+
+
+Student Login and Voting
+
+
+Admin Login to check Results
+
+
+Ban User ID
+
+
+Delete illegal votes
+
+
+
