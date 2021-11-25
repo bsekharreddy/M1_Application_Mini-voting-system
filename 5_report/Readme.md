@@ -102,6 +102,9 @@ It contains a UML diagram of the project. BY seeing this anyone can understand t
 
 Admin Login and New Election initialisation
 
+![image](https://user-images.githubusercontent.com/94459654/143376507-1157ec2c-83f1-44ed-95fb-59d75f41e9d4.png)
+
+
 
 Student Login and Voting
 
