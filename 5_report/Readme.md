@@ -93,7 +93,9 @@ It consists of Flow chart. It shows the flow of the project and by using this di
 ![image](https://user-images.githubusercontent.com/94459654/143375739-fe73344b-326d-4902-8a83-29ddf5eb09a1.png)
 
 
-Structural Diagram
+#Structural Diagram
+![image](https://user-images.githubusercontent.com/94459654/143376637-8d4d2d80-14e5-40fd-8346-e6566db162f7.png)
+
 
 It contains a UML diagram of the project. BY seeing this anyone can understand the test cases behind the logic of the diagram. This is means of explaining the project in simple manner.
 ![image](https://user-images.githubusercontent.com/94459654/143376014-498d0398-7b82-49ab-9869-cbad9d396832.png)
