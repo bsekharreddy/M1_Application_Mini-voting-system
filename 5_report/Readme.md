@@ -112,6 +112,8 @@ Student Login and Voting
 
 
 Admin Login to check Results
+![image](https://user-images.githubusercontent.com/94459654/143376792-fb4d43d5-3de3-4a39-8922-d867d5191bc1.png)
+
 
 
 Ban User ID
