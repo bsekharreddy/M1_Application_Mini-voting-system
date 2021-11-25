@@ -90,6 +90,8 @@ LLR_2	Voting History	Implemented
 Behavioural Diagram
 
 It consists of Flow chart. It shows the flow of the project and by using this diagram any one can understand the logic behind the diagram. By seeing this anyone can understand the logic and help them to improve the logic or to make it to simple one.
+![image](https://user-images.githubusercontent.com/94459654/143375739-fe73344b-326d-4902-8a83-29ddf5eb09a1.png)
+
 
 Structural Diagram
 
